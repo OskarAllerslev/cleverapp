@@ -1,0 +1,50 @@
+/* style.css */
+
+/* Subtle gray background for the body */
+body {
+  background-color: #f8f9fa;
+}
+
+/* The sidebar panel */
+.sidebarPanel {
+  background-color: #ffffff;
+  padding: 15px;
+  border-right: 1px solid #ccc;
+  min-height: 100vh;
+}
+
+/* The main panel */
+.mainPanel {
+  padding: 20px;
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+/* Headings */
+h3 {
+  color: #333;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Links in the sidebar */
+a {
+  color: #007bff;
+  text-decoration: none;
+  font-size: 16px;
+  display: block;
+  margin: 4px 0;
+}
+a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+/* Footer */
+#footer {
+  color: #666;
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+  margin-top: 50px;
+  font-size: 0.9em;
+}

@@ -1,0 +1,28 @@
+book1:
+  "1.1":
+    title: "Om Matematik på A-niveau"
+    text: "Kort introduktion til matematik på A-niveau."
+    latex: null
+    plot: null
+    exercise: null
+
+  "1.2":
+    title: "Kompetencebegrebet"
+    text: "Her ser vi på forskellige kompetencer i matematik."
+    latex: null
+    plot: null
+    exercise: null
+
+  "2.1":
+    title: "Kvadratiske funktioner"
+    text: "Kvadratiske funktioner: \\(f(x)=ax^2+bx+c\\)."
+    latex: "\\(f(x)=ax^2+bx+c\\)"
+    plot: null
+    exercise: "exercise_quadratic"
+
+  "2.2":
+    title: "Cirkler og ellipser"
+    text: "En cirkel i 2D defineres ved \\((x-h)^2 + (y-k)^2 = r^2\\)."
+    latex: "\\((x-h)^2 + (y-k)^2 = r^2\\)"
+    plot: "circle_plot"
+    exercise: null
